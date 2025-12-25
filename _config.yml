@@ -27,10 +27,10 @@ author:
   name             : "Jorn Yu, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Dr. Jorn (Chi Chung) Yu is a Professor of Forensic Science at Sam Houston State University. He has more than 18 years of experience in teaching and research in forensic science. Dr. Yu’s research interests are diverse and span traditional areas of forensic chemistry, trace evidence examination, pattern evidence, crime scene reconstruction, and artificial intelligence. His research efforts have been supported by federal funding from the National Institute of Justice, the National Science Foundation, and the Department of Defense, among others. Dr. Yu is a forensic scientist certified by the American Board of Criminalistics in the specialty area of comprehensive criminalistics (ABC-CC). Dr. Yu has served as an FEPAC on-site assessor for two institutions. Dr. Yu is a voting member on the Academy Standard Board in the Consensus Bodies of crime scene investigation and bloodstain pattern analysis. Dr. Yu is a Fellow of the American Academy of Forensic Sciences, and he also serves as one of the Board of Directors of the Houston Forensic Science Center."
-  location         : "Earth"
+  location         : # URL
   employer         : "Sam Houston State University"
   uri              : # URL
-  email            : "jornyu@shsu.edu, jornyu@gmail.com" 
+  email            : "jornyu@gmail.com"
 
   # Academic websites
   academia         : "https://www.shsu.edu/academics/colleges/criminal-justice/forensic-science/"
