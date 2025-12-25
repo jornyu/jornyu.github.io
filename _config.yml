@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jorn Yu, PhD, ABC-CC"
+title                    : "Jorn (Chi Chung) Yu, PhD, ABC-CC"
 title_separator          : "-"
 name                     : &name "Jorn Yu"
 description              : &description "Professor of Forensic Science"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,7 @@ author:
   avatar           : "JornYu.png"
   name             : "Jorn Yu, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Jorn (Chi Chung) Yu is a Professor of Forensic Science at Sam Houston State University. He has more than 18 years of experience in teaching and research in forensic science. Dr. Yu is a forensic scientist certified by the American Board of Criminalistics in the specialty area of comprehensive criminalistics (ABC-CC). Dr. Yu is a voting member on the Academy Standard Board in the Consensus Bodies of crime scene investigation and bloodstain pattern analysis. Dr. Yu is a Fellow of the American Academy of Forensic Sciences, and he also serves as one of the Board of Directors of the Houston Forensic Science Center. Dr. Yu serves as an academic comissioner on FEPAC (Forensic Science Education Programs Accreditation Commission)."
-  location         : # URL
+  bio              : "Dr. Jorn (Chi Chung) Yu is a Professor of Forensic Science at Sam Houston State University.
   employer         : "Sam Houston State University"
   uri              : # URL
   email            : "jornyu@gmail.com"
